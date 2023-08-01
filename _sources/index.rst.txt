@@ -1,0 +1,6 @@
+#########################################
+AwareID Document Capture Manual - Android
+#########################################
+
+Aware ID uses the Regula Document Reader SDK for scanning and analyzing documents and RFID tags.
+Regula's documentation can be found online at : https://docs.regulaforensics.com/develop/doc-reader-sdk/mobile/android/

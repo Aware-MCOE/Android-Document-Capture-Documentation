@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:52,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{analyz:0,awar:0,can:0,com:0,develop:0,doc:0,found:0,http:0,mobil:0,onlin:0,reader:0,regula:0,regulaforens:0,rfid:0,scan:0,sdk:0,tag:0,uses:0},titles:["AwareID Document Capture Manual - Android"],titleterms:{android:0,awareid:0,captur:0,document:0,manual:0}})
